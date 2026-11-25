@@ -44,6 +44,19 @@ consdata dist --publish   # copie le paquet dans ce dépôt
 git -C ~/ConsData diff    # relire avant de publier
 ```
 
+## Licence
+
+Les données dérivées rédigées pour ce paquet (paramètres, formules, résumés,
+structure et métadonnées) sont publiées sous licence
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) :
+réutilisation libre, y compris commerciale, à condition de citer
+« ConsData (samagior) ».
+
+Cette licence ne couvre pas les documents d'origine. Leurs titulaires de droits
+sont indiqués dans `NOTICE.md` et dans chaque `reference.json` ; un contenu
+reproduit avec l'accord d'un éditeur ou sous licence ouverte reste soumis à sa
+propre licence, précisée dans `reference.json` (`licence`).
+
 ## Avertissement
 
 Ces données facilitent le travail mais ne remplacent pas les documents
